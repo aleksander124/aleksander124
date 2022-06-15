@@ -3,7 +3,7 @@
 
 <br/>
 
-<h4>The main technologists I use are:</h4>
+### The main technologists I use are:
 - Ansible/Semaphore
 - Python
 - Azure Devops
