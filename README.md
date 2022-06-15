@@ -18,4 +18,4 @@ My main system is **Linux**
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksander124&show_icons=true&locale=en&layout=compact" alt="aleksander124" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksander124&show_icons=true&locale=en" alt="aleksander124" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aleksander124&show_icons=true&locale=en" alt="aleksander124" /></p>
