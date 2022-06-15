@@ -16,6 +16,6 @@ My main system is **Linux**
 
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksander124&show_icons=true&locale=en&layout=compact" alt="aleksander124" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksander124&show_icons=true&locale=en&layout=compact" alt="aleksander124" /></p><br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksander124&show_icons=true&locale=en" alt="aleksander124" /></p>
