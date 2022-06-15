@@ -10,7 +10,7 @@
 - Azure Cloud 
 - Docker/Kubernetes/Jenkins
 
-My main system is **Linux**
+Linux is my love 🔝
 
 <br/>
 
