@@ -47,7 +47,6 @@ I'm a passionate DevOps Engineer with experience in automating and streamlining 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aleksander124&show_icons=true&theme=radical" alt="Aleksander's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksander124&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 <p align="left">
